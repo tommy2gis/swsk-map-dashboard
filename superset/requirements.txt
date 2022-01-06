@@ -13,7 +13,7 @@ Flask_SQLAlchemy==2.4.0
 Flask==1.1.1
 numpy==1.17.0
 parsedatetime==2.4
-celery==4.3.0
+celery==5.2.2
 flask_talisman==0.7.0
 Flask_Login==0.4.1
 WTForms==2.2.1
